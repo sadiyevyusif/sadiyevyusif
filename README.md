@@ -3,9 +3,7 @@
 
 - 👨‍💻 I have RHCSA certificate **https://www.credly.com/badges/64a84878-b660-40b2-8f4e-962a76997e9c/embedded**
 
-- 👨‍💻 All of my projects are available at [https://coresoft.az/en/portfolio](https://coresoft.az/en/portfolio)
-
-- 💬 Ask me about **Software Development and DevOps**
+- 💬 Ask me about **Software Development, Linux and DevOps**
 
 - 📫 How to reach me **sadiyev.yusif@gmail.com**
 
