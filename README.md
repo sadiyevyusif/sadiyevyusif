@@ -1,9 +1,7 @@
 <h1 align="left">Hi 👋, I'm Yusif</h1>
 <h5 align="left">Master’s degree in Computer Engineering. I am a software developer with over 10 years of experience in developing web applications using web technologies. As a developer, I have worked on both small and large projects. I have created a lot of web based projects. You can see my projects on my portfolio and some of my projects are private local softwares. I also have Red Hat Certified System Administrator (RHCSA)</h5>
 
-- 🌱 I have RHCSA certificate **https://www.credly.com/badges/64a84878-b660-40b2-8f4e-962a76997e9c/embedded**
-
-- 👨‍💻 All of my projects are available at [https://www.credly.com/badges/64a84878-b660-40b2-8f4e-962a76997e9c/embedded](https://www.credly.com/badges/64a84878-b660-40b2-8f4e-962a76997e9c/embedded)
+- 👨‍💻 I have RHCSA certificate **https://www.credly.com/badges/64a84878-b660-40b2-8f4e-962a76997e9c/embedded**
 
 - 💬 Ask me about **Software Development and DevOps**
 
