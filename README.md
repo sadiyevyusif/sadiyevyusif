@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+Master’s degree in Computer Engineering.
+I am a software developer with over 10 years of experience in developing web applications using web technologies.
+As a developer, I have worked on both small and large projects. I have created a lot of web based projects. You can see my projects on my portfolio and some of my projects are private local softwares.
+I also have Red Hat Certified System Administrator (RHCSA)
 <!--
 **sadiyevyusif/sadiyevyusif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
