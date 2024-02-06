@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Yusif</h1>
-<h3 align="left">Master’s degree in Computer Engineering.
+<h6 align="left">Master’s degree in Computer Engineering.
 I am a software developer with over 10 years of experience in developing web applications using web technologies.
 As a developer, I have worked on both small and large projects. I have created a lot of web based projects. You can see my projects on my portfolio and some of my projects are private local softwares.
-I also have Red Hat Certified System Administrator (RHCSA)</h3>
+I also have Red Hat Certified System Administrator (RHCSA)</h6>
 
 - 💬 Ask me about **Software Development and DevOps**
 
