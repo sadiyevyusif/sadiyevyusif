@@ -1,7 +1,9 @@
 <h1 align="left">Hi 👋, I'm Yusif</h1>
-<h5 align="left">Master’s degree in Computer Engineering. I am a software developer with over 10 years of experience in developing web applications using web technologies. As a developer, I have worked on both small and large projects. I have created a lot of web based projects. You can see my projects on my portfolio and some of my projects are private local softwares. I also have Red Hat Certified System Administrator (RHCSA)</h5>
+<h4 align="left">Master’s degree in Computer Engineering. I am a software developer with over 10 years of experience in developing web applications using web technologies. As a developer, I have worked on both small and large projects. I have created a lot of web based projects. You can see my projects on my portfolio and some of my projects are private local softwares. I also have Red Hat Certified System Administrator (RHCSA)</h4>
 
-- 👨‍💻 I have RHCSA certificate **https://www.credly.com/badges/64a84878-b660-40b2-8f4e-962a76997e9c/embedded**
+- 🌱 I have RHCSA certificate **https://www.credly.com/badges/64a84878-b660-40b2-8f4e-962a76997e9c/embedded**
+
+- 👨‍💻 All of my projects are available at [https://www.credly.com/badges/64a84878-b660-40b2-8f4e-962a76997e9c/embedded](https://www.credly.com/badges/64a84878-b660-40b2-8f4e-962a76997e9c/embedded)
 
 - 💬 Ask me about **Software Development and DevOps**
 
@@ -11,8 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/yusifsadiyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yusifsadiyev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sadiyevyusif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadiyevyusif" height="30" width="40" /></a>
 <a href="https://fb.com/yusifsadiyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yusifsadiyev" height="30" width="40" /></a>
+<a href="https://instagram.com/coresoftaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coresoftaz" height="30" width="40" /></a>
 <a href="https://medium.com/@sadiyev.yusif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sadiyev.yusif" height="30" width="40" /></a>
 </p>
 
