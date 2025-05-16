@@ -1,5 +1,13 @@
 <h1 align="left">Hi 👋, I'm Yusif</h1>
-<h4 align="left">Master’s degree in Computer Engineering. I am a software developer with over 10 years of experience in developing web applications using web technologies. As a developer, I have worked on both small and large projects. I have created a lot of web based projects. You can see my projects on my portfolio and some of my projects are private local softwares. I also have Red Hat Certified System Administrator (RHCSA) and Red Hat Certified Engineer (RHCE)</h4>
+<h4 align="left">I am a passionate and experienced Software Developer & DevOps Engineer with a Master’s degree in Computer Engineering and over 10 years of hands-on experience. Throughout my career, I’ve specialized in web technologies and system administration, contributing to a wide variety of projects—ranging from small-scale applications to enterprise-level solutions.
+
+My expertise includes developing robust, user-centric web applications using technologies such as PHP, JavaScript, and MySQL, while also incorporating modern DevOps practices (Docker, Kubernetes, CI/CD, AWS). I am well-versed in Linux administration and have hands-on experience with BIND DNS, MariaDB, Postfix, Dovecot, Apache Tomcat, Apache, Nginx, and HAProxy.
+
+I have also managed infrastructure with tools like Linux Failover Clusters, Graylog (and Elasticsearch), Zabbix, and have extensive experience in advanced Bash scripting and Linux troubleshooting. This diverse skill set allows me to create scalable solutions that are secure, reliable, and high-performing.
+
+As a Red Hat Certified System Administrator (RHCSA) and Red Hat Certified Engineer (RHCE), I’ve honed my ability to manage complex infrastructures and ensure smooth operations. I’m also expanding my knowledge in AWS DevOps, further enhancing my ability to deploy and manage cloud-based solutions.
+
+I am deeply passionate about solving complex challenges with innovative technology solutions, and I thrive on helping teams leverage tech to drive business growth. If you’re looking for a skilled, adaptable software developer with a strong DevOps mindset and system administration experience, I’d love to connect and discuss how I can contribute to your organization’s success.</h4>
 
 - 👨‍💻 I have RHCSA certificate **https://www.credly.com/badges/64a84878-b660-40b2-8f4e-962a76997e9c/embedded** and RHCE certificate **https://www.credly.com/badges/767d3558-ca4f-43c6-b921-85056e18f500/embedded**
 
